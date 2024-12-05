@@ -5,7 +5,7 @@ let products = {
             author: "author : P JAGADEESH",
             subject: "Basic",
             date: "2022-01-31",
-            image: "https://www.google.com/imgres?q=ncert%20books&imgurl=https%3A%2F%2Fwww.schoolkart.com%2Fcdn%2Fshop%2Fproducts%2Fsk_bkncertset_065_new1.jpg%3Fv%3D1595875458&imgrefurl=https%3A%2F%2Fwww.schoolkart.com%2Fproducts%2Fncert-physics-chemistry-biology-pcb-books-set-for-class-12-english-medium&docid=ypR7LHe1NSzyIM&tbnid=zHbznohgzu94ZM&vet=12ahUKEwisrMjp4I-KAxXr2TQHHeQDB7AQM3oECBYQAA..i&w=600&h=800&hcb=2&ved=2ahUKEwisrMjp4I-KAxXr2TQHHeQDB7AQM3oECBYQAA" ,
+            image: "NCER.jpg" ,
         },
         {
             title: "title : Cryptography",
