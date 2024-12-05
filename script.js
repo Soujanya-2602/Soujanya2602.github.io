@@ -89,7 +89,7 @@ let products = {
             author: "author : BHANU CHANDAR",
             subject: "ISE",
             date:  "2021-12-20",
-            image: "Wta.jpg" ,
+            image: "imageprocessing.jpeg" ,
         },
         {
             title: "title : Physics",
