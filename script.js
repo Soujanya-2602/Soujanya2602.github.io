@@ -5,7 +5,7 @@ let products = {
             author: "author : P JAGADEESH",
             subject: "Basic",
             date: "2022-01-31",
-            image: "images.jpeg" ,
+            image: "NCER.jpg" ,
         },
         {
             title: "title : Cryptography",
