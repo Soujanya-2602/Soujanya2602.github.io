@@ -89,7 +89,7 @@ let products = {
             author: "author : BHANU CHANDAR",
             subject: "ISE",
             date:  "2021-12-20",
-            image: "imageprocessing.jpeg" ,
+            image: "https://m.media-amazon.com/images/I/81z+dWhTOOL._SY466_.jpg" ,
         },
         {
             title: "title : Physics",
